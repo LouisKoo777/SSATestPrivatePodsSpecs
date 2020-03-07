@@ -1,0 +1,2 @@
+# SSATestPrivatePodsSpecs
+SSA测试的podspecs仓库
